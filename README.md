@@ -2,5 +2,5 @@
 
 
 
-This repository is created in partial fulfilment of the requirements in the subject CSC173 - Intelligent Systems
+This repository was created in partial fulfillment of the requirements for the course CSC173 - Intelligent Systems.
 
